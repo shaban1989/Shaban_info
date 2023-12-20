@@ -1,16 +1,4 @@
 # Shaban_info
-Dear 
-I am writing to express my interest in the Project Manager position. With a strong background in Infrastructure and extensive experience in implementing and managing DevOps practices, and also skilled in defining project scope, objectives, and deliverables, as well as developing comprehensive project plans that outline tasks, timelines, and resource allocation. I excel at coordinating cross-functional teams, fostering collaboration, and ensuring effective communication throughout the project lifecycle. My experience includes managing project risks, issues, and changes, as well as conducting regular progress tracking and reporting to stakeholders. I am confident in my ability to contribute to the success of your organization.
-I am passionate about bridging the gap between development and operations teams, enabling seamless software delivery and ensuring reliable and scalable infrastructure. My technical skills encompass a wide range of tools and technologies, including cloud computing platforms is AWS containerization (Docker, Kubernetes/OpenShift), configuration management (Ansible) continuous integration and deployment (Jenkins).
-I am excited about the opportunity to join your and contribute to its DevOps initiatives. I am confident that my technical expertise, passion for innovation, and dedication to operational excellence would make me a valuable asset to your team.
-Thank you for considering my application. Please find my attached resume for further details. I look forward to the possibility of interviewing with you to discuss how I can contribute to the success of your organization.
-Thank you for your time and consideration.
-Sincerely,
-Shaban Ansari, India- New Delhi
-ansarims1989@gmail.com
-+91 9792660029
-
-------------------------------------------------------------------------
 
 Project 1: 
 Initially, we operated from a single Data Center, but we logically segregated it into four environments: User Acceptance Testing (UAT), System Integration Testing (SIT), End-to-End (E2E), and Production. As we plan and prepare for the construction of the new Data Center, our aim is to implement more advanced and token-based authentication.
