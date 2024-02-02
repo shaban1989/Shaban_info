@@ -1,4 +1,4 @@
-# Shaban_info
+Projects: 
 
 Project 1: 
 Initially, we operated from a single Data Center, but we logically segregated it into four environments: User Acceptance Testing (UAT), System Integration Testing (SIT), End-to-End (E2E), and Production. As we plan and prepare for the construction of the new Data Center, our aim is to implement more advanced and token-based authentication.
